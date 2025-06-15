@@ -1,6 +1,6 @@
-# 💫 About Me :
-Hi, I'm MERYEM ​✨​<br><br>🎓 I hold a Bachelor’s degree in Electronics, Automation & Informatics from Faculty of Sciences of Rabat (FSR), Mohammed V University <br><br>💻 Currently an Engineering student in Computer Science at École Marocaine d’Ingénierie (EMG) <br><br>🧠 Passionate about software development, embedded systems, and tech in general
-# 💻 Tech Stack :
+## 💫 Hi, I'm MERYEM ​​<br>
+🎓 I hold a Bachelor’s degree in Electronics, Automation & Informatics from Faculty of Sciences of Rabat (FSR), Mohammed V University <br>💻 Currently an Engineering student in Computer Science at École Marocaine d’Ingénierie (EMG) <br>🧠 Passionate about software development, embedded systems, and tech in general
+## Tech Stack 👩🏻‍💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -15,8 +15,8 @@ Hi, I'm MERYEM ​✨​<br><br>🎓 I hold a Bachelor’s degree in Electronics
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-# 📊 GitHub Stats :
+## GitHub Stats 🎀
 ![](https://nirzak-streak-stats.vercel.app/?user=MERYEM-LABYAD&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=MERYEM-LABYAD&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/><br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=MERYEM-LABYAD&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
