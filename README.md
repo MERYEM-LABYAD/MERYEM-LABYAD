@@ -1,5 +1,5 @@
 ## 💫 Hi, I'm MERYEM ​​<br>
-🎓 I hold a Bachelor’s degree in Electronics, Automation & Informatics from Faculty of Sciences of Rabat (FSR), Mohammed V University <br>💻 Currently an Engineering student in Computer Science at École Marocaine d’Ingénierie (EMG) <br>🧠 Passionate about software development, embedded systems, and tech in general
+🎓 I hold a Bachelor’s degree in Electronics, Automation & Informatics from Faculty of Sciences of Rabat (FSR), Mohammed V University <br>💻 Currently an Engineering student in Computer Science at Moroccan School of Engineering (EMG) <br>🧠 Passionate about software development, embedded systems, and tech in general
 
 ##  Socials 🌐
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meryemlabyad239@gmail.com)
