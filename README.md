@@ -105,14 +105,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MERYEM-LABYAD&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+<p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MERYEM-LABYAD&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MERYEM-LABYAD&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MERYEM-LABYAD&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MERYEM-LABYAD&theme=radical&no-frame=true&row=2&column=3" alt="Trophies" width="48%"/>
+<p >
+
 </p>
 
 ---
@@ -121,6 +120,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MERYEM-LABYAD&style=flat-square&color=C71585" alt="Profile Views"/>
-</p>
+
