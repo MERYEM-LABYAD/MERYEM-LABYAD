@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### 💫 About Me
 
 - 🎓 Bachelor's degree in **Electronics, Automation & Computer Science** — Faculty of Sciences of Rabat (FSR), Mohammed V University
 - 💻 Currently a **2nd-year Engineering student in Computer Science** at the **Moroccan School of Engineering (EMG)**
@@ -23,7 +23,7 @@
   <a href="mailto:meryemlabyad239@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/meryem-labyad" target="_blank">
+  <a href="https://www.linkedin.com/in/meryem-labyad-913047322/" target="_blank"
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/MERYEM-LABYAD" target="_blank">
@@ -101,18 +101,7 @@
 - Modèle LLM personnalisé via **Ollama** et API REST **.NET Core (C#)**
 - Interface web HTML/CSS/JS avec historique des conversations persisté dans **SQL Server**
 
----
 
-### 📂 Featured Projects
-
-| Projet | Description | Stack |
-|---|---|---|
-| **AEGIS** | Surveillance de logs avec alerting automatique par email | ELK Stack, Docker, Python |
-| **Pipeline CI/CD DevOps** | Tests, containerisation, CI/CD, orchestration self-healing, monitoring temps réel | Flask, Docker, GitHub Actions, Kubernetes, Prometheus, Grafana |
-| **My Pets** | Application MVC2 de gestion de refuge animalier avec rôles et API REST | Jakarta EE, JSP, JPA/Hibernate, Oracle, JAX-RS |
-| **RabatLink** | Super-app mobile pour Rabat : chat par quartier, marketplace, dashboard admin | Flutter, Firebase, Firestore |
-
----
 
 ### 📊 GitHub Stats
 
