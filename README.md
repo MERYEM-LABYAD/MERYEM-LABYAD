@@ -105,10 +105,6 @@
 
 ### 📊 GitHub Stats
 
-<p >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MERYEM-LABYAD&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MERYEM-LABYAD&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
 
 <p >
 
