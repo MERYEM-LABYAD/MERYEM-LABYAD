@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="44" viewBox="0 0 340 44" role="img" aria-label="Open to PFE internship">
+  <style>
+    .pulse{animation:p 1.6s ease-out infinite;transform-origin:22px 22px}
+    @keyframes p{0%{opacity:.7;transform:scale(.6)}100%{opacity:0;transform:scale(2.2)}}
+    text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+  </style>
+  <rect x="1" y="1" width="338" height="42" rx="21" fill="#0D1117" stroke="#C71585" stroke-width="2"/>
+  <circle class="pulse" cx="22" cy="22" r="8" fill="#3CCBA8"/>
+  <circle cx="22" cy="22" r="6" fill="#3CCBA8"/>
+  <text x="40" y="27" fill="#FFFFFF" font-size="15" font-weight="600">Open to a final-year internship (PFE)</text>
+</svg>
