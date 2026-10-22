@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C71585,100:1F3A5F&height=150&section=header&text=Meryem%20Labyad&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descSize=16&descAlignY=60" alt="Meryem Labyad" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C71585,100:1F3A5F&height=190&section=header&text=Meryem%20Labyad&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=twinkling&desc=Computer%20Science%20Engineering%20Student&descSize=17&descAlignY=58" alt="Meryem Labyad" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C71585&center=true&vCenter=true&width=640&lines=Edge+AI+%2F+TinyML%3A+making+neural+networks+smaller;Python+back-end%2C+tests+and+CI%2FCD;Looking+for+a+final-year+internship+(PFE)" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MERYEM-LABYAD&label=Profile%20views&color=C71585&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-PFE%20internship-C71585?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to PFE internship" />
 </p>
 
 <p align="center">
@@ -25,21 +30,38 @@ I like work that sits between software and hardware: getting models to run where
 
 ### What I'm working on
 
-| | |
-|---|---|
-| **Edge AI / TinyML internship** | A Python framework that compresses a Faster R-CNN detector (structured pruning, knowledge distillation, INT8 quantization) for UAV power-line inspection. Includes a controlled comparison of pruning strategies, an error analysis per class, a second study on ResNet-18, and a deployment plan for a Raspberry Pi. Code and report are confidential, so numbers are not shown here. |
-| **Generative AI internship (ANCFCC)** | Team chatbot over internal PDF documents: full RAG pipeline with LangChain and Qdrant, a custom LLM served with Ollama, a .NET Core REST API, and a web interface with history in SQL Server. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Edge AI / TinyML internship</h4>
+      <p>A Python framework that compresses a Faster R-CNN detector for UAV power-line inspection: structured pruning, knowledge distillation, INT8 quantization.</p>
+      <p>Includes a controlled comparison of pruning strategies, an error analysis per class, a second study on ResNet-18, and a Raspberry Pi deployment plan.</p>
+      <p><sub>Code and report are confidential, so no numbers are shown here.</sub></p>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,raspberrypi,git&theme=dark" alt="TinyML stack" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Generative AI internship at ANCFCC</h4>
+      <p>A team chatbot over internal PDF documents: full RAG pipeline with LangChain and Qdrant, a custom LLM served with Ollama, a .NET Core REST API, and a web interface with history in SQL Server.</p>
+      <p><sub>August 2025, one month.</sub></p>
+      <img src="https://skillicons.dev/icons?i=python,cs,mssql,html,css,js&theme=dark" alt="ANCFCC stack" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **CI/CD DevOps pipeline** | Flask API tested with Pytest, containerized, built and deployed by GitHub Actions, orchestrated on Kubernetes with self-healing, monitored in real time | Python, Flask, Docker, Kubernetes, Prometheus, Grafana |
-| **AEGIS** | Log collection and processing, indexing and dashboards, automatic e-mail alerts | Python, ELK Stack, Docker |
-| **My Pets** | Animal shelter web app with Admin and Adopter roles, full CRUD, and a REST API | Jakarta EE, JPA/Hibernate, Oracle, JAX-RS |
-| **RabatLink** | Mobile super-app for Rabat: neighbourhood chat, private messages, marketplace with orders, admin dashboard | Flutter, Firebase |
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>CI/CD DevOps pipeline</b><br/>Flask API tested with Pytest, built and deployed by GitHub Actions, orchestrated on Kubernetes with self-healing, monitored with Prometheus and Grafana.<br/><br/><img src="https://skillicons.dev/icons?i=flask,docker,kubernetes,githubactions,prometheus,grafana&theme=dark" alt="" /></td>
+    <td width="50%" valign="top"><b>AEGIS</b><br/>Log collection and processing, indexing and dashboards, automatic e-mail alerts.<br/><br/><img src="https://skillicons.dev/icons?i=python,elasticsearch,kibana,docker&theme=dark" alt="" /></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>My Pets</b><br/>Animal shelter web app with Admin and Adopter roles, full CRUD, and a REST API.<br/><br/><img src="https://skillicons.dev/icons?i=java,hibernate,oracle&theme=dark" alt="" /></td>
+    <td width="50%" valign="top"><b>RabatLink</b><br/>Mobile super-app for Rabat: neighbourhood chat, private messages, marketplace with orders, admin dashboard.<br/><br/><img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -98,6 +120,14 @@ I like work that sits between software and hardware: getting models to run where
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MERYEM-LABYAD&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C71585&icon_color=C71585&text_color=C9D1D9" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MERYEM-LABYAD&layout=compact&hide_border=true&bg_color=0D1117&title_color=C71585&text_color=C9D1D9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MERYEM-LABYAD&bg_color=0D1117&color=C71585&line=C71585&point=FFFFFF&area=true&area_color=C71585&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MERYEM-LABYAD/MERYEM-LABYAD/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
