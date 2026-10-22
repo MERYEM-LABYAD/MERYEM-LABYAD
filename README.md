@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C71585&center=true&vCenter=true&width=640&lines=Edge+AI+%2F+TinyML%3A+making+neural+networks+smaller;Python+back-end%2C+tests+and+CI%2FCD;Looking+for+a+final-year+internship+(PFE)" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MERYEM-LABYAD&label=Profile%20views&color=C71585&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-PFE%20internship-C71585?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to PFE internship" />
+  <img src="https://raw.githubusercontent.com/MERYEM-LABYAD/MERYEM-LABYAD/main/assets/open-to-work.svg" alt="Open to a final-year internship (PFE)" height="36" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-### About me
+### About me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
 
 I am a third-year engineering student in Computer Science at the Moroccan School of Engineering (EMG Rabat), after a bachelor's degree in Electronics, Automation and Computer Science at the Faculty of Sciences of Rabat (Mohammed V University).
 
@@ -43,7 +43,7 @@ I like work that sits between software and hardware: getting models to run where
       <h4>Generative AI internship at ANCFCC</h4>
       <p>A team chatbot over internal PDF documents: full RAG pipeline with LangChain and Qdrant, a custom LLM served with Ollama, a .NET Core REST API, and a web interface with history in SQL Server.</p>
       <p><sub>August 2025, one month.</sub></p>
-      <img src="https://skillicons.dev/icons?i=python,cs,mssql,html,css,js&theme=dark" alt="ANCFCC stack" />
+      <img src="https://skillicons.dev/icons?i=python,cs,html,css,js&theme=dark" alt="ANCFCC stack" />
     </td>
   </tr>
 </table>
@@ -55,7 +55,7 @@ I like work that sits between software and hardware: getting models to run where
 <table>
   <tr>
     <td width="50%" valign="top"><b>CI/CD DevOps pipeline</b><br/>Flask API tested with Pytest, built and deployed by GitHub Actions, orchestrated on Kubernetes with self-healing, monitored with Prometheus and Grafana.<br/><br/><img src="https://skillicons.dev/icons?i=flask,docker,kubernetes,githubactions,prometheus,grafana&theme=dark" alt="" /></td>
-    <td width="50%" valign="top"><b>AEGIS</b><br/>Log collection and processing, indexing and dashboards, automatic e-mail alerts.<br/><br/><img src="https://skillicons.dev/icons?i=python,elasticsearch,kibana,docker&theme=dark" alt="" /></td>
+    <td width="50%" valign="top"><b>AEGIS</b><br/>Log collection and processing, indexing and dashboards, automatic e-mail alerts.<br/><br/><img src="https://skillicons.dev/icons?i=python,elasticsearch,docker&theme=dark" alt="" /></td>
   </tr>
   <tr>
     <td width="50%" valign="top"><b>My Pets</b><br/>Animal shelter web app with Admin and Adopter roles, full CRUD, and a REST API.<br/><br/><img src="https://skillicons.dev/icons?i=java,hibernate,oracle&theme=dark" alt="" /></td>
