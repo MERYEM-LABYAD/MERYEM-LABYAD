@@ -20,7 +20,7 @@
 
 ### About me
 
-I am a second-year engineering student in Computer Science at the Moroccan School of Engineering (EMG Rabat), after a bachelor's degree in Electronics, Automation and Computer Science at the Faculty of Sciences of Rabat (Mohammed V University).
+I am a third-year engineering student in Computer Science at the Moroccan School of Engineering (EMG Rabat), after a bachelor's degree in Electronics, Automation and Computer Science at the Faculty of Sciences of Rabat (Mohammed V University).
 
 I like work that sits between software and hardware: getting models to run where resources are limited, and building the tests and pipelines that make code reliable. Recently that meant compressing an object detector for drone inspection; before that, a RAG chatbot and a DevOps pipeline.
 
